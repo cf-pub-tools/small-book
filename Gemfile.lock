@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/pivotal-cf/bookbinder
-  revision: 11f6bd89e8b12775ba2d7dd50290427e57e41afc
+  revision: af55dc576e1efd0b678dfeca2c00c6a20478301a
   branch: master
   specs:
     bookbindery (3.1.0)
