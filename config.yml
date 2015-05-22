@@ -1,0 +1,9 @@
+cred_repo: cf-pub-tools/bookbinder-ci-credentials
+book_repo: cf-pub-tools/small-book
+
+public_host: small-book.cfapps.io
+
+dita_sections:
+- repository:
+    name: cf-pub-tools/tiny-section
+  directory: docs-are-small
