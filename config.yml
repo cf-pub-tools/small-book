@@ -7,3 +7,6 @@ sections:
 - repository:
     name: cf-pub-tools/tiny-section
   directory: docs-are-small
+- repository:
+    name: cloudfoundry/docs-dev-guide
+  directory: devguide-is-cool

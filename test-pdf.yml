@@ -5,3 +5,4 @@ copyright_notice: '© Copyright Pivotal Software Inc, 2013-2015'
 header: pdf_header.html
 pages:
     - docs-are-small/index.html
+    - devguide-is-cool/installcf/index.html
